@@ -1,2 +1,2 @@
 # FACIAL-RECOGNITION
-Facial Recognition System
+This is the facial Recgnition System which ,I have created in span of holidays. 
